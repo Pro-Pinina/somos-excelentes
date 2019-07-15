@@ -1,0 +1,26 @@
+
+.myh1 {
+    margin-top: 100px;
+}
+.myh2 {
+    padding: 80px;
+}
+.mybtn {
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(10.225rem + 13.2vw);
+}
+@media (max-width: 1200px) {
+    .display-1 {
+      font-size: calc(2.225rem + 6.2vw);
+    }
+    .display-2 {
+      font-size: calc(2.175rem + 5.6vw);
+    }
+    .display-3 {
+      font-size: calc(2.075rem + 4.4vw);
+    }
+    .display-4 {
+      font-size: calc(1.975rem + 3.2vw);
+    }
+  }

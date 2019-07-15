@@ -1,0 +1,11 @@
+.my-image {
+    width: 100px;
+}
+@media (max-width: 768px) {
+    #sticky-footer {
+        display: inline !important;
+    }
+    .my-icon {
+        display: none;
+    }
+  }
