@@ -24,3 +24,8 @@
       font-size: calc(1.975rem + 3.2vw);
     }
   }
+  @media (max-width: 400px) {
+    .myh1{
+      margin-top: 50px;
+    }
+  }

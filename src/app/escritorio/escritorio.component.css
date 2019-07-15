@@ -8,4 +8,7 @@
     .my-icon {
         display: none;
     }
+    .nav-item {
+        margin-left: auto;
+    }
   }
