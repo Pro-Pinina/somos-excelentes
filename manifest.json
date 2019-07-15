@@ -1,0 +1,53 @@
+{
+  "name": "www.Excelentes.com",
+  "short_name": "Excelentes",
+  "theme_color": "#F47F66",
+  "background_color": "#F47F66",
+  "orientation": "portrait",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./index.html",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/logo1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
